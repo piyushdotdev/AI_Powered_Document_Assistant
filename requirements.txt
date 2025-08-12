@@ -1,6 +1,10 @@
 streamlit
 langchain
+langchain-community
+langchain-core
 langchain-groq
+langchain-google-genai
+faiss-cpu
 python-dotenv
+PyPDF2
 pypdf
-PyMuPDF
