@@ -1,5 +1,6 @@
- streamlit 
- asyncio
+streamlit
 langchain
-
+langchain-groq
 python-dotenv
+pypdf
+PyMuPDF
